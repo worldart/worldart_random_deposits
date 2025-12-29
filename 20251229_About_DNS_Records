@@ -1,0 +1,11 @@
+
+About DNS Records
+DNS (Domain Name System) records are instructions that provide information about a domain, including its IP addresses, mail servers, and other services. 
+Common record types include:
+
+SOA (Start of Authority) - Contains administrative information about the zone
+NS (Nameserver) - Specifies authoritative nameservers for the domain
+A (Address) - Maps a domain to an IPv4 address
+AAAA - Maps a domain to an IPv6 address
+CNAME (Canonical Name) - Creates an alias pointing to another domain
+MX (Mail Exchange) - Specifies mail servers for the domain
